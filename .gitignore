@@ -1,0 +1,46 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 数据文件
+/tsdb_data/
+*.data
+*.log
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 测试和基准
+/test_data/
+/bench_results/
+/examples/data/
+
+# 日志文件
+/logs/
+*.log
+
+# Docker
+.dockerignore
+
+# 环境变量
+.env
+.env.local
+
+# 临时文件
+/tmp/
+*.tmp
+*.temp
+
+# 备份文件
+*.bak
+backup_*
+
