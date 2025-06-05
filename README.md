@@ -469,6 +469,17 @@ ps aux | grep timeseries-db
 4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 打开 Pull Request
 
+---
+
+## 🙏 致谢与参考
+
+本项目在开发过程中参考了以下优秀的开源项目：
+
+- **[PingCAP Talent Plan](https://github.com/pingcap/talent-plan)** - 提供了存储引擎的设计思路和实现参考
+- **[MandoDB](https://github.com/chenjiandongx/mandodb)** - 为时序数据库架构设计提供了宝贵的实践经验
+
+感谢这些项目的贡献者们，他们的工作为本项目的实现奠定了重要基础。
+
 ## 📄 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
